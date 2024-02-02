@@ -1,3 +1,3 @@
-public class Human extends Shape{
+public class Human extends Shape {
     
 }
